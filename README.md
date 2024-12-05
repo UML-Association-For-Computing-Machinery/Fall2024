@@ -21,12 +21,12 @@ Legend
 
 | Date        | Week and Topic                | Speaker      | Description  |
 |-------------|-------------------------------|--------------|--------------|
-| 🔵 Sep 18th   | [Week 1: Welcome to ACM at UML]()   | Club Leaders          | **Presentation Section:**<br>- Brief presentation on ACM at UML and introduction to who we are and what we do.<br>** |
-| 🔵 Oct 2nd   | [Week 2: Pyhton Workshop and Technical Interviewing]()   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- A brief introduction to Python and Technical Interviewing<br>** |
-| 🔵 Oct 16th    | [Week 3: AI & ML Presentation]()   | [Sriram Krishnamoorthy]()          | **Presentation Section:**<br>- Sriram Krishnamoorthy's graduate presentation on Machine Learning <br>** |
-| 🔵 Oct 30th    | [Week 4: OvertheWire]()   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- Platform for practicing cybersecurity skills<br>** |
-| 🔵 Nov 13th   | [Week 5: Intro to LaTeX]()   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- A typesetting system useful for academic papers.<br>**Hands-On Section:**<br>- Continue work on UniPath.io |
-| 🔵 Nov 25th   | [Week 6: Learn About Natural Language Processing]()   | Vijeta Deshpande        | **Presentation Section:**<br>- Introduction to the math and algorithms behind natural language processing, a subfield of machine learning concerned with processing human speech. <br>**|
+| 🔵 Sep 18th   | [Week 1: Welcome to ACM at UML]()   | Club Leaders          | **Presentation Section:**<br>- Brief presentation on ACM at UML and introduction to who we are and what we do.<br> **Hands-on Section: Coding the solutions to Leetcode problems using Python <br>  |
+| 🔵 Oct 2nd   | [Week 2: Python Workshop and Technical Interviewing]()   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- A brief introduction to Python and Technical Interviewing<br> |
+| 🔵 Oct 16th    | [Week 3: AI & ML Presentation]()   | Sriram Krishnamoorthy         | **Presentation Section:**<br>- Sriram Krishnamoorthy's graduate presentation on Machine Learning <br> |
+| 🔵 Oct 30th    | [Week 4: OvertheWire]()   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- Platform for practicing cybersecurity skills<br> |
+| 🔵 Nov 13th   | [Week 5: Intro to LaTeX]()   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- A typesetting system useful for academic papers.<br> |
+| 🔵 Nov 25th   | [Week 6: Learn About Natural Language Processing]()   | Vijeta Deshpande        | **Presentation Section:**<br>- Introduction to the math and algorithms behind natural language processing, a subfield of machine learning concerned with processing human speech.
 | 🟢 Dec 11th   | [Week 7: Movie Night]()   | Club Leaders         | **Presentation Section:**<br>- N/A <br> |
 
 
