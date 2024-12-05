@@ -21,13 +21,13 @@ Legend
 
 | Date        | Week and Topic                | Speaker      | Description  |
 |-------------|-------------------------------|--------------|--------------|
-| 🔵 Jan 18th   | [Week 1: Welcome to ACM at UML]()   | Club Leaders          | **Presentation Section:**<br>- Brief presentation on ACM at UML and introduction to who we are and what we do.<br>**Hands-On Section:**<br>- Work on UniPath.io |
-| 🔵 Jan 25th   | [Week 2: Pyhton Workshop]()   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- Work on UniPath.io |
-| 🔵 Feb 1st    | [Week 3: AI & ML Presentation](./Week%203)   | [Sriram Krishnamoorthy]()          | **Presentation Section:**<br>- We will have a speaker from the Career & Co-op Center at UMass Lowell give us an informative session with an overview of the Co-Op Program and answer any questions regarding internships.<br>**Hands-On Section:**<br>- Work on UniPath.io |
-| 🔵 Feb 8th    | [Week 4: OvertheWire](./Week%204)   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- Introduction to Docker and the concept of containerization in cloud computing.<br>**Hands-On Section:**<br>- Continue work on UniPath.io |
-| 🔵 Feb 15th   | [Week 5: Intro to LaTeX](./Week%205)   | [Prof. Idith Tal-Kohen](https://www.linkedin.com/in/idith), IBM Cloud, Project Manager          | **Presentation Section:**<br>- Agile methodologies and their application in project management and cloud computing projects.<br>**Hands-On Section:**<br>- Continue work on UniPath.io |
-| 🔵 Feb 22nd   | [Week 6: Learn About Natural Language Processing](./Week%206)   | Vijeta Deshpande        | **Presentation Section:**<br>- Introduction to AWS Lambda and serverless computing, exploring how to build and deploy functions.<br>**Hands-On Section:**<br>- Continue work on UniPath.io |
-| 🟢 Feb 29th   | [Week 7: Movie Night](./Week%207)   | Club Leaders         | **Presentation Section:**<br>- Introduction to Infrastructure as Code, using tools like Terraform, to automate the setup and management of cloud infrastructure.<br>**Hands-On Section:**<br>- Work on UniPath.io |
+| 🔵 Sep 18th   | [Week 1: Welcome to ACM at UML]()   | Club Leaders          | **Presentation Section:**<br>- Brief presentation on ACM at UML and introduction to who we are and what we do.<br>** |
+| 🔵 Oct 2nd   | [Week 2: Pyhton Workshop and Technical Interviewing]()   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- A brief introduction to Python and Technical Interviewing<br>** |
+| 🔵 Oct 16th    | [Week 3: AI & ML Presentation]()   | [Sriram Krishnamoorthy]()          | **Presentation Section:**<br>- Sriram Krishnamoorthy's graduate presentation on Machine Learning <br>** |
+| 🔵 Oct 30th    | [Week 4: OvertheWire]()   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- Platform for practicing cybersecurity skills<br>** |
+| 🔵 Nov 13th   | [Week 5: Intro to LaTeX]()   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- A typesetting system useful for academic papers.<br>**Hands-On Section:**<br>- Continue work on UniPath.io |
+| 🔵 Nov 25th   | [Week 6: Learn About Natural Language Processing]()   | Vijeta Deshpande        | **Presentation Section:**<br>- Introduction to the math and algorithms behind natural language processing, a subfield of machine learning concerned with processing human speech. <br>**|
+| 🟢 Dec 11th   | [Week 7: Movie Night]()   | Club Leaders         | **Presentation Section:**<br>- N/A <br> |
 
 
 (Note: The schedule is tentative and expected to change. The topics and descriptions for subsequent meetings will be updated as we progress through the semester.)
