@@ -22,7 +22,7 @@ Legend
 | Date        | Week and Topic                | Speaker      | Description  |
 |-------------|-------------------------------|--------------|--------------|
 | 🔵 Sep 18th   | [Week 1: Welcome to ACM at UML]()   | Club Leaders          | **Presentation Section:**<br>- Brief presentation on ACM at UML and introduction to who we are and what we do. <br> **Hands-on Section:** - Coding the solutions to Leetcode problems using Python <br>  |
-| 🔵 Oct 2nd   | [Week 2: Python Workshop and Technical Interviewing]()   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- A brief introduction to Python and Technical Interviewing<br> |
+| 🔵 Oct 2nd   | [Week 2: Python Workshop and Technical Interviewing]()   | Charlie Norton, ACM Secretary <br> Rohan Mallu, ACM President          | **Presentation Section:**<br>- A brief introduction to Python and Technical Interviewing<br> |
 | 🔵 Oct 16th    | [Week 3: AI & ML Presentation]()   | Sriram Krishnamoorthy         | **Presentation Section:**<br>- Sriram Krishnamoorthy's graduate presentation on Machine Learning <br> |
 | 🔵 Oct 30th    | [Week 4: OvertheWire]()   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- Platform for practicing cybersecurity skills<br> |
 | 🔵 Nov 13th   | [Week 5: Intro to LaTeX]()   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- A typesetting system useful for academic papers.<br> |
