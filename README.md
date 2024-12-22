@@ -23,11 +23,11 @@ Legend
 |-------------|-------------------------------|--------------|--------------|
 | 🔵 Sep 18th   | [Week 1: Welcome to ACM at UML](Week01/ACM_Meeting_09_18_24.pdf)   | Club Leaders          | **Presentation Section:**<br>- Brief presentation on ACM at UML and introduction to who we are and what we do. |
 | 🔵 Oct 2nd   | [Week 2: Python Workshop and Technical Interviewing](Week02/ACM_Meeting_10_02_24_Python_and_technical_iterviewing.pdf)   | Charlie Norton, ACM Secretary <br> <br> Rohan Mallu, ACM President          | **Presentation Section:**<br>- A brief introduction to Python<br> <br>- Presentation on Technical Interviewing<br> <br> **Hands-on Section:** <br> - Coding the solutions to Leetcode problems using Python <br>  |
-| 🔵 Oct 16th    | [Week 3: AI & ML Presentation]()   | Sriram Krishnamoorthy         | **Presentation Section:**<br>- Sriram Krishnamoorthy's graduate presentation on Machine Learning <br> |
+| 🔵 Oct 16th    | [Week 3: AI & ML Presentation](Week03/AI_ACM_Presentation.pdf)   | Sriram Krishnamoorthy         | **Presentation Section:**<br>- Sriram Krishnamoorthy's graduate presentation on Machine Learning <br> |
 | 🔵 Oct 30th    | [Week 4: OvertheWire](Week04/ACM_Meeting_10_30_24.pdf)   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- Platform for practicing cybersecurity skills<br> |
 | 🔵 Nov 13th   | [Week 5: Intro to LaTeX](Week05/ACM_Meeting_11_13_24.pdf)   | Charlie Norton, ACM Secretary          | **Presentation Section:**<br>- A typesetting system useful for academic papers.<br> |
-| 🔵 Nov 25th   | [Week 6: Learn About Natural Language Processing]()   | Vijeta Deshpande        | **Presentation Section:**<br>- Introduction to the math and algorithms behind natural language processing, a subfield of machine learning concerned with processing human speech.
-| 🟢 Dec 11th   | [Week 7: Movie Night]()   | Club Leaders         | **Presentation Section:**<br>- N/A <br> |
+| 🔵 Nov 25th   | [Week 6: Learn About Natural Language Processing](Week06/Milestones_of_NLP.pdf)   | Vijeta Deshpande        |**Presentation Section:**<br>- Introduction to the math and algorithms behind natural language processing, a subfield of machine learning concerned with processing human speech.
+| 🔵 Dec 11th   | [Week 7: Movie Night]()   | Club Leaders         | **Presentation Section:**<br>- N/A <br> |
 
 
 (Note: The schedule is tentative and expected to change. The topics and descriptions for subsequent meetings will be updated as we progress through the semester.)
