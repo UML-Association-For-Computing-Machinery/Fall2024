@@ -1,0 +1,50 @@
+\documentclass[12pt]{article}
+\usepackage[T1]{fontenc} % font fixes
+\usepackage{graphicx} % add images
+\usepackage{amssymb,amsmath} % extra math features
+\usepackage{hyperref} % links
+\usepackage{listings} % insert code
+\usepackage[letterpaper, margin=1in]{geometry} % change margins
+\usepackage{kantlipsum} % sample text
+\usepackage[dvipsnames,table]{xcolor} % add color functionality
+
+\newcommand{\listingDsp}[1]{\input{#1}\lstinputlisting{#1}} % this is a custom command to include a page and use listings on it
+% input inserts another document inline
+
+\graphicspath{{Images}} 
+
+\definecolor{backcolour}{rgb}{0.92,0.92,0.90}
+\lstdefinestyle{python}{
+	language=python,
+	basicstyle=\ttfamily,
+	commentstyle=\color{Green},
+	tabsize=4,
+	columns=flexible,
+	keepspaces=true,
+	keywordstyle=\color{Blue},
+	stringstyle=\color{Maroon},
+	showstringspaces=false,
+	backgroundcolor=\color{backcolour},
+	frame=single,
+	breaklines=true,
+	title={\lstname}
+} % this is the listings formating
+
+\title{Example of \LaTeX} % set the title
+\author{UML ACM} % set the author
+
+\begin{document} % start document
+\maketitle % create title page
+\tableofcontents % create ToC
+
+\include{Lipsum} % include inserts another document starting on a new page
+
+\include{Basic}
+
+\include{Math_Mode}
+
+\include{Images}
+
+\include{Listings}
+
+\end{document}
